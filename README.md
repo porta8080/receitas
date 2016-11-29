@@ -1,6 +1,7 @@
 ##GIT
 
 git reset --hard HEAD~{numero}
+
 git reset --hard {hash do commit}
 git push origin master:{nome do branch no remote}
 git rm --cached {caminho ou arquivo} {-r}
